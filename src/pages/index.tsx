@@ -17,7 +17,7 @@ export default function Home() {
           <img src="/images/andre.jpg" width={95} height={95} alt="profile picture" className='rounded-full' />
         </div>
         <div className='ml-4'>
-          <Title title='About Me' />
+          <Title title='Sobre mim' />
           <p className='py-2 indent-4 text-justify'>
             Meu nome e André Lacerda e sou um apaixonado por tecnologia. Estou estudando React e JavaScript, apesar de estar focado no frontEnd gostaria de me tornar um desenvolvedor Full-Stack. Estudo por conta própria buscando sempre aprender algo novo.
           </p>
