@@ -11,7 +11,7 @@ const Works = () => {
             <p className="ml-6 mb-2 md:mb-6 mt-4 font-bold text-lg">Projetos</p>
             <div className="p-4 pb-6 grid grid-col-1 md:grid-cols-2">
                 <WorkCard
-                    imgSrc="/images/cash/dashboard.jpg"
+                    imgSrc="/images/cash/dashboard.JPG"
                     title="Cash"
                     href="cash"
                 >

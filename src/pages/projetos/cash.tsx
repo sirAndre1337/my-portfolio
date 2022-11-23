@@ -28,9 +28,9 @@ const Cash = () => {
                     <span className="">NodeJS/NextJS, TypeScript, TailwindCSS, JWT, Prisma, PostGreSQL</span>
                 </div>
                 <div className="flex flex-col gap-4 mb-2 mt-4">
-                    <img src="/images/cash/login.jpg" alt="ImagemloginCash" className="h-auto w-auto rounded-md" />
-                    <img src="/images/cash/dashboard.jpg" alt="ImagemDashboardCash" className="h-auto w-auto rounded-md" />
-                    <img src="/images/cash/pagtransfer.jpg" alt="ImagemTransferCash" className="h-auto w-auto rounded-md" />
+                    <img src="/images/cash/login.JPG" alt="ImagemloginCash" className="h-auto w-auto rounded-md" />
+                    <img src="/images/cash/dashboard.JPG" alt="ImagemDashboardCash" className="h-auto w-auto rounded-md" />
+                    <img src="/images/cash/pagtransfer.JPG" alt="ImagemTransferCash" className="h-auto w-auto rounded-md" />
                 </div>
             </div>
         </Layout>
