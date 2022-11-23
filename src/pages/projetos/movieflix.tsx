@@ -19,6 +19,10 @@ const MovieFlix = () => {
                     O aplicativo mostra todos os filmes cadastrados podendo selecionar filmes por gênero, e deixar uma avaliação do mesmo.
                 </div>
                 <div className="flex gap-3 items-center mb-1 mt-4">
+                    <span className="text-xs font-bold bg-[#C6F6D5] px-1 dark:text-[#81E6D9] dark:bg-[#587C66]">SOURCE</span>
+                    <a href="https://github.com/sirAndre1337/movieFlix" target="_blank" rel="noreferrer" className="text-[#3D7AED] dark:text-pink-400 cursor-pointer hover:underline">https://github.com/sirAndre1337/movieFlix</a>
+                </div>
+                <div className="flex gap-3 items-center mb-1">
                     <span className="text-xs font-bold bg-[#C6F6D5] px-1 dark:text-[#81E6D9] dark:bg-[#587C66]">WEBSITE</span>
                     <a href="https://andre-movieflix.netlify.app" target="_blank" rel="noreferrer" className="text-[#3D7AED] dark:text-pink-400 cursor-pointer hover:underline">https://andre-movieflix.netlify.app</a>
                 </div>

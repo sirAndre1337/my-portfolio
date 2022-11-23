@@ -20,6 +20,10 @@ const dsCatalog = () => {
                     Neste projeto também foram trabalhados tópicos como testes com Junit, além de CI/CD.
                 </div>
                     <div className="flex gap-3 items-center mb-1 mt-4">
+                        <span className="text-xs font-bold bg-[#C6F6D5] px-1 dark:text-[#81E6D9] dark:bg-[#587C66]">SOURCE</span>
+                        <a href="https://github.com/sirAndre1337/dscatalog" target="_blank" rel="noreferrer" className="text-[#3D7AED] dark:text-pink-400 cursor-pointer hover:underline">https://github.com/sirAndre1337/dscatalog</a>
+                    </div>
+                    <div className="flex gap-3 items-center mb-1">
                         <span className="text-xs font-bold bg-[#C6F6D5] px-1 dark:text-[#81E6D9] dark:bg-[#587C66]">WEBSITE</span>
                         <a href="https://andre-dscatalog.netlify.app" target="_blank" rel="noreferrer" className="text-[#3D7AED] dark:text-pink-400 cursor-pointer hover:underline">https://andre-dscatalog.netlify.app/</a>
                     </div>

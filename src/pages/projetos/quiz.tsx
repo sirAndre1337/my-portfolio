@@ -20,6 +20,10 @@ const Quiz = () => {
                     Ao final e mostrado o resultado, informando o total de perguntas, quantas foram acertadas e o seu percentual.
                 </div>
                     <div className="flex gap-3 items-center mb-1 mt-4">
+                        <span className="text-xs font-bold bg-[#C6F6D5] px-1 dark:text-[#81E6D9] dark:bg-[#587C66]">SOURCE</span>
+                        <a href="https://github.com/sirAndre1337/quiz" target="_blank" rel="noreferrer" className="text-[#3D7AED] dark:text-pink-400 cursor-pointer hover:underline">https://github.com/sirAndre1337/quiz</a>
+                    </div>
+                    <div className="flex gap-3 items-center mb-1">
                         <span className="text-xs font-bold bg-[#C6F6D5] px-1 dark:text-[#81E6D9] dark:bg-[#587C66]">WEBSITE</span>
                         <a href="https://quiz-andre.vercel.app" target="_blank" rel="noreferrer" className="text-[#3D7AED] dark:text-pink-400 cursor-pointer hover:underline">https://quiz-andre.vercel.app/</a>
                     </div>
